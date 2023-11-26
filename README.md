@@ -8,7 +8,7 @@ Monster Rolodex is a single page application (SPA) as a practice project for a R
 4. The application makes API requests to load data.
 
 ## TECHNICAL SPECIFICATIONS
-The project uses ReactJS, API, HTML, CSS, Javascript. The project was written in a class based components to learn and understand how REACT JS's life cycle, process of rendering and re-rendering, mounting and unmounting and how it updates the DOM.
+The project uses ReactJS, API, HTML, CSS, Javascript. The project was written in a class based components to learn and understand REACT JS class components life cycle methods, process of rendering and re-rendering, mounting and unmounting and how it updates the DOM.
 
 ## Setup
 Install dependencies with `npm install`.
