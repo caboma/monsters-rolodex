@@ -4,8 +4,7 @@ Monster Rolodex is a single page application (SPA) as a practice project for a R
 ## APP FEATURES
 1. Load a list of Monsters with its specific details such as name, image and email address.
 2. A user can search a specific monster by entering it's name in the search field.
-3. 
-4. The application makes API requests to load data.
+3. The application makes API requests to load data.
 
 ## TECHNICAL SPECIFICATIONS
 The project uses ReactJS, API, HTML, CSS, Javascript. The project was written in a class based components to learn and understand REACT JS class components life cycle methods, process of rendering and re-rendering, mounting and unmounting and how it updates the DOM.
