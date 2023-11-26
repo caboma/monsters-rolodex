@@ -19,9 +19,9 @@ npm start
 
 ## Final Product
 
-!["Screenshot of Monster Rolodex"](public/images/monster_rolodex_all.jpg)
+!["Screenshot of Monster Rolodex"](public/images/monster_rolodex_all.png)
 
-!["Screenshot of Filtered Monster"](public/images/monster_rolodex_search.jpg)
+!["Screenshot of Filtered Monster"](public/images/monster_rolodex_search.png)
 
-!["Screenshot of Spefic Monster"](public/images/monster_rolodex_filtered.jpg)
+!["Screenshot of Spefic Monster"](public/images/monster_rolodex_filtered.png)
 
